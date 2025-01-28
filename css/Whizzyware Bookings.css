@@ -1,0 +1,63 @@
+body{
+    font-size:17px;
+    background-color:black;
+    margin:1%;
+    padding:1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align:center;
+    color:white;
+    font-size:25px;
+}
+
+p{
+    color:white;
+    font-size:18px;
+}
+
+h2{
+    color:white;
+    font-size:18px;
+}
+.form-group{
+    width:100%;
+	direction:ltr;
+	text-align:left;
+	color:white;
+	padding-right:0%;
+	text-indent:0%;
+
+}
+.checkbox{
+    padding-bottom:1%;
+}
+
+
+.form-control{
+	text-align:left;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    }
+
+
+.submitbtn{
+        text-align:center;
+        background-color:white;
+        color:black;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border-radius:7px;
+        cursor: pointer;
+        width:20%;
+      }
+      
+      .submitbtn:hover {
+        opacity: 0.8;
+      }
+
+
